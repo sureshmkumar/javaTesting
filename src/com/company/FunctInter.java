@@ -7,7 +7,7 @@ public class FunctInter {
         Function<Integer,Double> aval = a -> a /2.0;
         System.out.println(aval.apply(10));
         System.out.println("Helloworld ");
-
+        System.out.println("Hello testing teh project ");
 
     }
 }
